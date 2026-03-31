@@ -1,0 +1,3 @@
+print ("Hi, thanks for adding this file")
+print ("Now we need to commit also")
+print ("Finally pushing these changes from local to remote repository")
